@@ -1,1 +1,1 @@
-1) petit journal
+création d'un blog avec Java/JEE
